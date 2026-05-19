@@ -72,19 +72,6 @@ B.Sc. **Computational Linguistics** graduate from the **University of Potsdam**,
 
 ---
 
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=b-bblc&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=b-bblc&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=b-bblc&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
 ## 📬 Get in Touch
 
 Open to opportunities in **SAP / ABAP development**, **SAP consulting**, and **NLP / Applied AI** — Berlin or remote.
