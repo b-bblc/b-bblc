@@ -87,6 +87,6 @@ B.Sc. **Computational Linguistics** graduate from the **University of Potsdam**,
 
 ## 📬 Get in Touch
 
-Open to opportunities in **SAP / ABAP development**, **SAP consulting**, and **NLP / Applied AI** — Berlin or remote (EU).
+Open to opportunities in **SAP / ABAP development**, **SAP consulting**, and **NLP / Applied AI** — Berlin or remote.
 
 📧 **artur.begi4ev@gmail.com** · 💼 [LinkedIn](https://www.linkedin.com/in/artur-begichev-1218001b3/) · 🐙 [GitHub](https://github.com/b-bblc)
